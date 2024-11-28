@@ -1,0 +1,7 @@
+D:\SoftwareDevelopment\ICTPRG614 - Create cloud computing services\Assessments\Assessment 2\P2\EnrollmentSystemService\EnrollmentSystemService\bin\EnrollmentSystemService.dll.config
+D:\SoftwareDevelopment\ICTPRG614 - Create cloud computing services\Assessments\Assessment 2\P2\EnrollmentSystemService\EnrollmentSystemService\bin\EnrollmentSystemService.dll
+D:\SoftwareDevelopment\ICTPRG614 - Create cloud computing services\Assessments\Assessment 2\P2\EnrollmentSystemService\EnrollmentSystemService\bin\EnrollmentSystemService.pdb
+D:\SoftwareDevelopment\ICTPRG614 - Create cloud computing services\Assessments\Assessment 2\P2\EnrollmentSystemService\EnrollmentSystemService\obj\Debug\EnrollmentSystemService.csproj.AssemblyReference.cache
+D:\SoftwareDevelopment\ICTPRG614 - Create cloud computing services\Assessments\Assessment 2\P2\EnrollmentSystemService\EnrollmentSystemService\obj\Debug\EnrollmentSystemService.csproj.CoreCompileInputs.cache
+D:\SoftwareDevelopment\ICTPRG614 - Create cloud computing services\Assessments\Assessment 2\P2\EnrollmentSystemService\EnrollmentSystemService\obj\Debug\EnrollmentSystemService.dll
+D:\SoftwareDevelopment\ICTPRG614 - Create cloud computing services\Assessments\Assessment 2\P2\EnrollmentSystemService\EnrollmentSystemService\obj\Debug\EnrollmentSystemService.pdb

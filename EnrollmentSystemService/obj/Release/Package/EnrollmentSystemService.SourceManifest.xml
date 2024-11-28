@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="D:\SoftwareDevelopment\ICTPRG614 - Create cloud computing services\Assessments\Assessment 2\P2\EnrollmentSystemService\EnrollmentSystemService\obj\Release\Package\PackageTmp" />
+  <setAcl path="D:\SoftwareDevelopment\ICTPRG614 - Create cloud computing services\Assessments\Assessment 2\P2\EnrollmentSystemService\EnrollmentSystemService\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="D:\SoftwareDevelopment\ICTPRG614 - Create cloud computing services\Assessments\Assessment 2\P2\EnrollmentSystemService\EnrollmentSystemService\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

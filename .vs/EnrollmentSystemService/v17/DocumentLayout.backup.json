@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SoftwareDevelopment\\ICTPRG614 - Create cloud computing services\\Assessments\\Assessment 2\\P2\\EnrollmentSystemService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93E3CB4E-03D3-4319-B33A-7514C02D452C}|EnrollmentSystemService\\EnrollmentSystemService.csproj|d:\\softwaredevelopment\\ictprg614 - create cloud computing services\\assessments\\assessment 2\\p2\\enrollmentsystemservice\\enrollmentsystemservice\\studentservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93E3CB4E-03D3-4319-B33A-7514C02D452C}|EnrollmentSystemService\\EnrollmentSystemService.csproj|solutionrelative:enrollmentsystemservice\\studentservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93E3CB4E-03D3-4319-B33A-7514C02D452C}|EnrollmentSystemService\\EnrollmentSystemService.csproj|D:\\SoftwareDevelopment\\ICTPRG614 - Create cloud computing services\\Assessments\\Assessment 2\\P2\\EnrollmentSystemService\\enrollmentsystemservice\\courseservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93E3CB4E-03D3-4319-B33A-7514C02D452C}|EnrollmentSystemService\\EnrollmentSystemService.csproj|solutionrelative:enrollmentsystemservice\\courseservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseService.svc.cs",
+              "DocumentMoniker": "D:\\SoftwareDevelopment\\ICTPRG614 - Create cloud computing services\\Assessments\\Assessment 2\\P2\\EnrollmentSystemService\\EnrollmentSystemService\\CourseService.svc.cs",
+              "RelativeDocumentMoniker": "EnrollmentSystemService\\CourseService.svc.cs",
+              "ToolTip": "D:\\SoftwareDevelopment\\ICTPRG614 - Create cloud computing services\\Assessments\\Assessment 2\\P2\\EnrollmentSystemService\\EnrollmentSystemService\\CourseService.svc.cs",
+              "RelativeToolTip": "EnrollmentSystemService\\CourseService.svc.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T23:45:57.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentService.svc.cs",
+              "DocumentMoniker": "D:\\SoftwareDevelopment\\ICTPRG614 - Create cloud computing services\\Assessments\\Assessment 2\\P2\\EnrollmentSystemService\\EnrollmentSystemService\\StudentService.svc.cs",
+              "RelativeDocumentMoniker": "EnrollmentSystemService\\StudentService.svc.cs",
+              "ToolTip": "D:\\SoftwareDevelopment\\ICTPRG614 - Create cloud computing services\\Assessments\\Assessment 2\\P2\\EnrollmentSystemService\\EnrollmentSystemService\\StudentService.svc.cs",
+              "RelativeToolTip": "EnrollmentSystemService\\StudentService.svc.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T23:41:19.562Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

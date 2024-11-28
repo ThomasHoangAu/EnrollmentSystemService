@@ -1,0 +1,16 @@
+D:\SoftwareDevelopment\ICTPRG614 - Create cloud computing services\Assessments\Assessment 2\P2\EnrollmentSystemService\EnrollmentSystemClient\bin\Debug\EnrollmentSystemClient.exe.config
+D:\SoftwareDevelopment\ICTPRG614 - Create cloud computing services\Assessments\Assessment 2\P2\EnrollmentSystemService\EnrollmentSystemClient\bin\Debug\EnrollmentSystemClient.exe
+D:\SoftwareDevelopment\ICTPRG614 - Create cloud computing services\Assessments\Assessment 2\P2\EnrollmentSystemService\EnrollmentSystemClient\bin\Debug\EnrollmentSystemClient.pdb
+D:\SoftwareDevelopment\ICTPRG614 - Create cloud computing services\Assessments\Assessment 2\P2\EnrollmentSystemService\EnrollmentSystemClient\obj\Debug\EnrollmentSystemClient.csproj.AssemblyReference.cache
+D:\SoftwareDevelopment\ICTPRG614 - Create cloud computing services\Assessments\Assessment 2\P2\EnrollmentSystemService\EnrollmentSystemClient\obj\Debug\EnrollmentSystemCLient.frmMain.resources
+D:\SoftwareDevelopment\ICTPRG614 - Create cloud computing services\Assessments\Assessment 2\P2\EnrollmentSystemService\EnrollmentSystemClient\obj\Debug\EnrollmentSystemCLient.frmCourses.resources
+D:\SoftwareDevelopment\ICTPRG614 - Create cloud computing services\Assessments\Assessment 2\P2\EnrollmentSystemService\EnrollmentSystemClient\obj\Debug\EnrollmentSystemCLient.frmEnroll.resources
+D:\SoftwareDevelopment\ICTPRG614 - Create cloud computing services\Assessments\Assessment 2\P2\EnrollmentSystemService\EnrollmentSystemClient\obj\Debug\EnrollmentSystemCLient.frmNewCourses.resources
+D:\SoftwareDevelopment\ICTPRG614 - Create cloud computing services\Assessments\Assessment 2\P2\EnrollmentSystemService\EnrollmentSystemClient\obj\Debug\EnrollmentSystemCLient.frmNewStudents.resources
+D:\SoftwareDevelopment\ICTPRG614 - Create cloud computing services\Assessments\Assessment 2\P2\EnrollmentSystemService\EnrollmentSystemClient\obj\Debug\EnrollmentSystemCLient.frmStudents.resources
+D:\SoftwareDevelopment\ICTPRG614 - Create cloud computing services\Assessments\Assessment 2\P2\EnrollmentSystemService\EnrollmentSystemClient\obj\Debug\EnrollmentSystemCLient.frmViewEnrollments.resources
+D:\SoftwareDevelopment\ICTPRG614 - Create cloud computing services\Assessments\Assessment 2\P2\EnrollmentSystemService\EnrollmentSystemClient\obj\Debug\EnrollmentSystemClient.Properties.Resources.resources
+D:\SoftwareDevelopment\ICTPRG614 - Create cloud computing services\Assessments\Assessment 2\P2\EnrollmentSystemService\EnrollmentSystemClient\obj\Debug\EnrollmentSystemClient.csproj.GenerateResource.cache
+D:\SoftwareDevelopment\ICTPRG614 - Create cloud computing services\Assessments\Assessment 2\P2\EnrollmentSystemService\EnrollmentSystemClient\obj\Debug\EnrollmentSystemClient.csproj.CoreCompileInputs.cache
+D:\SoftwareDevelopment\ICTPRG614 - Create cloud computing services\Assessments\Assessment 2\P2\EnrollmentSystemService\EnrollmentSystemClient\obj\Debug\EnrollmentSystemClient.exe
+D:\SoftwareDevelopment\ICTPRG614 - Create cloud computing services\Assessments\Assessment 2\P2\EnrollmentSystemService\EnrollmentSystemClient\obj\Debug\EnrollmentSystemClient.pdb
